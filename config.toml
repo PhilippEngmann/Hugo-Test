@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Netlify Hugo Test'
+title = 'Netlify Hugo Test 2'
 theme = 'lugo'

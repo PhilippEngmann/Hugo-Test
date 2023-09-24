@@ -1,4 +1,8 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Netlify Hugo Test 2'
+title = 'Hugo Test'
 theme = 'lugo'
+
+[[deployment.targets]]
+name = "gcp"
+URL = "gs://hugo-sites"
